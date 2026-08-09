@@ -1,0 +1,24 @@
+COGNITIVE FRAMEWORK EMPIRICAL VALIDATION SUITE
+
+Preset: confirmatory; seeds: 60; experiments: 18; elapsed: 29.2s
+
+IMPORTANT: statistical rejection supports an operational mechanism in these controlled synthetic environments. It does not prove human cognition, consciousness, genuine emotion/empathy, or real-world safety.
+
+tadm_sparse: control=0.7481, treatment=0.8520, diff=0.1039, dz=2.118, p=5.882e-24, Holm(core)=2.353e-23 => REJECT H0
+emg_multihop: control=0.6285, treatment=1.0000, diff=0.3715, dz=7.056, p=1.533e-52, Holm(core)=1.687e-51 => REJECT H0
+dream_consolidation: control=1017.7500, treatment=121.1333, diff=-896.6167, dz=-28.558, p=3.937e-88, Holm(core)=6.694e-87 => REJECT H0
+pad_risk: control=0.0430, treatment=0.0177, diff=-0.0253, dz=-4.635, p=4.326e-42, Holm(core)=3.461e-41 => REJECT H0
+tam_postpone: control=-2.0142, treatment=4.8395, diff=6.8536, dz=2.062, p=2.149e-23, Holm(core)=6.448e-23 => REJECT H0
+auto_cue: control=0.5001, treatment=0.7470, diff=0.2469, dz=13.400, p=8.511e-69, Holm(core)=1.277e-67 => REJECT H0
+curiosity: control=1.2833, treatment=2.7167, diff=1.4333, dz=1.368, p=1.388e-15, Holm(core)=1.388e-15 => REJECT H0
+intuition: control=1.0000, treatment=0.4850, diff=-0.5150, dz=-8.318, p=1.095e-56, Holm(core)=1.423e-55 => REJECT H0
+bootstrapping: control=0.7123, treatment=0.8683, diff=0.1560, dz=2.043, p=3.372e-23, Holm(core)=6.744e-23 => REJECT H0
+shared_gltm: control=0.5271, treatment=0.8234, diff=0.2963, dz=6.614, p=6.471e-51, Holm(core)=5.824e-50 => REJECT H0
+validator_reflection: control=0.0178, treatment=0.0012, diff=-0.0167, dz=-8.673, p=9.61e-58, Holm(core)=1.345e-56 => REJECT H0
+truth_conflict: control=0.8674, treatment=0.9487, diff=0.0813, dz=4.581, p=8.368e-42, Holm(core)=5.858e-41 => REJECT H0
+dream_rehearsal: control=0.3109, treatment=0.8516, diff=0.5407, dz=3.535, p=1.535e-35, Holm(core)=9.213e-35 => REJECT H0
+gigo_filter: control=0.9670, treatment=0.9999, diff=0.0329, dz=2.369, p=2.3e-26, Holm(core)=1.15e-25 => REJECT H0
+mimic_safety: control=0.3915, treatment=0.8993, diff=0.5078, dz=6.972, p=3.063e-52, Holm(core)=3.063e-51 => REJECT H0
+purpose_planning: control=3.7246, treatment=3.9764, diff=0.2518, dz=7.880, p=2.54e-55, Holm(core)=3.048e-54 => REJECT H0
+negotiation: control=0.4193, treatment=0.6749, diff=0.2556, dz=20.307, p=2.077e-79, Holm(core)=3.324e-78 => REJECT H0
+survival_override: control=0.1855, treatment=0.9185, diff=0.7330, dz=35.273, p=1.547e-93, Holm(core)=2.785e-92 => REJECT H0
