@@ -1,0 +1,28 @@
+COGNITIVE FRAMEWORK EMPIRICAL VALIDATION SUITE
+
+Preset: smoke; seeds: 2; experiments: 22; elapsed: 19.3s
+
+IMPORTANT: statistical rejection supports an operational mechanism in these controlled synthetic environments. It does not prove human cognition, consciousness, genuine emotion/empathy, or real-world safety.
+
+tadm_sparse: control=0.7500, treatment=0.8056, diff=0.0556, dz=707672408058418.750, p=3.181e-16, Holm(core)=5.725e-15 => REJECT H0
+emg_multihop: control=0.6545, treatment=1.0000, diff=0.3455, dz=3.359, p=0.06605, Holm(core)=0.3162 => FAIL TO REJECT H0
+dream_consolidation: control=1010.5000, treatment=121.0000, diff=-889.5000, dz=-40.579, p=0.005546, Holm(core)=0.08319 => raw p<.05; not core-family confirmed
+pad_risk: control=0.0406, treatment=0.0144, diff=-0.0261, dz=-4.748, p=0.04706, Holm(core)=0.3162 => raw p<.05; not core-family confirmed
+tam_postpone: control=-1.3055, treatment=1.8949, diff=3.2004, dz=1.051, p=0.1886, Holm(core)=0.3162 => FAIL TO REJECT H0
+auto_cue: control=0.5050, treatment=0.7642, diff=0.2592, dz=12.936, p=0.01738, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+curiosity: control=1.0000, treatment=3.5000, diff=2.5000, dz=3.536, p=0.06283, Holm(core)=0.3162 => FAIL TO REJECT H0
+intuition: control=1.0000, treatment=0.5096, diff=-0.4904, dz=-10.313, p=0.02179, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+bootstrapping: control=0.6914, treatment=0.8386, diff=0.1471, dz=14.566, p=0.01544, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+shared_gltm: control=0.5467, treatment=0.8033, diff=0.2567, dz=10.889, p=0.02064, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+validator_reflection: control=0.0165, treatment=0.0013, diff=-0.0152, dz=-14.378, p=0.01564, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+truth_conflict: control=0.8639, treatment=0.9500, diff=0.0861, dz=3.131, p=0.07069, Holm(core)=0.3162 => FAIL TO REJECT H0
+dream_rehearsal: control=0.2229, treatment=0.8323, diff=0.6094, dz=3.207, p=0.06909, Holm(core)=0.3162 => FAIL TO REJECT H0
+gigo_filter: control=0.9750, treatment=1.0000, diff=0.0250, dz=4.950, p=0.04517, Holm(core)=0.3162 => raw p<.05; not core-family confirmed
+mimic_safety: control=0.3000, treatment=0.9111, diff=0.6111, dz=12.964, p=0.01735, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+recall_precedence: control=0.4974, treatment=0.7259, diff=0.2285, dz=41.269, p=0.005453, Holm(core)=nan => raw p<.05; not core-family confirmed
+empathy_proxy: control=0.6457, treatment=1.0283, diff=0.3826, dz=34.430, p=0.006536, Holm(core)=nan => raw p<.05; not core-family confirmed
+bias_mitigation: control=0.3000, treatment=0.0525, diff=-0.2475, dz=-16.155, p=0.01392, Holm(core)=nan => raw p<.05; not core-family confirmed
+character_consistency: control=0.7429, treatment=0.9086, diff=0.1657, dz=4.557, p=0.049, Holm(core)=nan => raw p<.05; not core-family confirmed
+purpose_planning: control=3.7565, treatment=3.9992, diff=0.2427, dz=12.271, p=0.01832, Holm(core)=0.2162 => raw p<.05; not core-family confirmed
+negotiation: control=0.4353, treatment=0.6835, diff=0.2482, dz=112.536, p=0.002, Holm(core)=0.034 => REJECT H0
+survival_override: control=0.1861, treatment=0.9069, diff=0.7208, dz=50.091, p=0.004493, Holm(core)=0.07189 => raw p<.05; not core-family confirmed
