@@ -1,0 +1,30 @@
+% Mechanism-level hypotheses for the Cognitive Framework empirical validation suite.
+% Insert/adapt into the future empirical sister paper.
+\section{Prespecified Mechanism-Level Hypotheses}
+The unified framework contains multiple separable mechanisms; therefore we do not define a single null hypothesis for the architecture as a whole. Each mechanism is evaluated through a matched intervention/ablation contrast. For a directional claim in which treatment is expected to improve a metric, the general form is
+\[
+H_0:\mu_{\mathrm{treatment}}\leq\mu_{\mathrm{control}},\qquad
+H_A:\mu_{\mathrm{treatment}}>\mu_{\mathrm{control}}.
+\]
+For metrics in which smaller values are preferred (e.g., unsafe-action rate), the inequality is reversed. Failure to reject $H_0$ is not interpreted as proof that $H_0$ is true. Family-wise error across the core mechanism hypotheses is controlled using Holm's procedure at $\alpha=0.05$.
+
+\begin{enumerate}
+\item \textbf{TADM sparse retention:} weighted sparse memory improves retrieval accuracy under a fixed record budget.
+\item \textbf{EMG relational retrieval:} graph memory improves multi-hop temporal/causal query accuracy relative to flat episodic lookup.
+\item \textbf{Dream consolidation:} consolidation reduces retained redundant records; held-out retrieval accuracy is reported separately as a preservation diagnostic.
+\item \textbf{PAD risk modulation:} PAD-aware action scoring reduces unsafe actions in high-hazard contexts.
+\item \textbf{Temporal Action Modulation:} remember/postpone/forget control improves deadline-weighted utility under finite attention.
+\item \textbf{Automatic cue determination:} benefit-oriented cue selection improves retrieval/task success.
+\item \textbf{Curiosity:} novelty/uncertainty-guided exploration discovers more useful unknown opportunities under the same interaction budget.
+\item \textbf{Intuition:} familiar-state heuristic priors reduce decision cost; correctness and reversal susceptibility are secondary diagnostics.
+\item \textbf{Bootstrapping:} compatible transferred memory improves target few-shot accuracy relative to scratch learning.
+\item \textbf{Shared global memory:} reliability-weighted SharedGLTM improves novice held-out accuracy relative to local-only memory.
+\item \textbf{Validator plus reflection:} trust-weighted consensus and reflective gating reduce unsafe action execution relative to a single validator.
+\item \textbf{Incremental conflict resolution:} credibility-weighted evidence improves final fact accuracy under conflicting observations.
+\item \textbf{Validated dream rehearsal:} validated counterfactual recombination improves held-out compositional accuracy relative to replay-only experience.
+\item \textbf{GIGO mitigation:} input-quality and cross-validation gating improves final belief accuracy under corrupted inputs.
+\item \textbf{Safe imitation:} trust-weighted validated imitation improves few-shot reward relative to no-imitation learning while unsafe-imitation rate is monitored.
+\item \textbf{Purpose-conditioned planning:} explicit goal/plan consistency improves multi-step goal-completion utility relative to myopic immediate reward.
+\item \textbf{Negotiation:} trust-weighted validator arbitration improves joint utility under conflicting proposals.
+\item \textbf{Survival override:} urgency-gated bypass improves survival in time-critical threats; false bypass in non-threat contexts is reported separately.
+\end{enumerate}

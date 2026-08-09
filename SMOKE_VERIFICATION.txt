@@ -1,0 +1,5 @@
+Software verification completed before packaging:
+- cognitive_validation.py compiles successfully.
+- resource_benchmark.py compiles successfully.
+- all experiment code paths were exercised with the smoke preset during development.
+- smoke outcomes are intentionally not included in this package and are not scientific evidence.
