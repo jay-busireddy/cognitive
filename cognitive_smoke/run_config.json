@@ -1,0 +1,35 @@
+{
+  "preset": "smoke",
+  "mode": "all",
+  "seeds": [
+    91001,
+    91039
+  ],
+  "n_seeds": 2,
+  "experiments": [
+    "tadm_sparse",
+    "emg_multihop",
+    "dream_consolidation",
+    "pad_risk",
+    "tam_postpone",
+    "auto_cue",
+    "curiosity",
+    "intuition",
+    "bootstrapping",
+    "shared_gltm",
+    "validator_reflection",
+    "truth_conflict",
+    "dream_rehearsal",
+    "gigo_filter",
+    "mimic_safety",
+    "recall_precedence",
+    "empathy_proxy",
+    "bias_mitigation",
+    "character_consistency",
+    "purpose_planning",
+    "negotiation",
+    "survival_override"
+  ],
+  "alpha": 0.05,
+  "note": "Confirmatory conclusions require parameters/experiment set to be frozen before inspecting confirmatory outcomes."
+}
